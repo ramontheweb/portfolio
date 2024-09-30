@@ -1,18 +1,18 @@
 # CSEC, Information Science
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Java, PL/SQL, PowerShell, UNIX Shell, C++, Python
+
+## Web Presence
 
 ## Education
-- SYSTEMS ANALYST | Sheridan College (_2018-2021_)
-- BACHELOR OF INFORMATION SCIENCES | (_2022-2024_)
+- Computer Systems Technology – Systems Analyst. | Sheridan College (_2018-2021_)
+- Bachelor of Applied Information Sciences (Information Systems Security) | (_2022-2024_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Multifaceted Technical Support Analyst @ Taylor Software Systems (_2023 - 2024_)**
+•	Management and administration of mail servers, maintaining blacklists for spam control, and communication upkeep. (Dovecot, Sieve -> Gmail)
+•	Various administration roles such as the sending and responding of emails, answering clients over the phone in a polite and attentive manner. 
+•	Maintenance of assets; debugging software, and fixing and keeping various hardware in working and optimal condition.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
