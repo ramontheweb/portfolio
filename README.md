@@ -3,8 +3,9 @@
 #### Technical Skills: Java, PL/SQL, PowerShell, UNIX Shell, C++, Python
 
 ## Web Presence
-- https://tryhackme.com/p/vahaes
-- https://leetcode.com/u/vahaes33/
+![TryHackMe] https://tryhackme.com/p/vahaes
+![LeetCode] https://leetcode.com/u/vahaes33/
+![GitHub] https://github.com/ramontheweb
 
 ## Education
 - CST. Information Systems Engineering | Sheridan College (_2018-2021_)
