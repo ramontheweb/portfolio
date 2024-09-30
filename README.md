@@ -5,8 +5,8 @@
 ## Web Presence
 
 ## Education
-- Computer Systems Technology – Systems Analyst. | Sheridan College (_2018-2021_)
-- Bachelor of Applied Information Sciences (Information Systems Security) | (_2022-2024_)
+- Systems Analyst. | Sheridan College (_2018-2021_)
+- Bachelor of Applied Information Sciences | (_2022-2024_)
 
 ## Work Experience
 **Multifaceted Technical Support Analyst @ Taylor Software Systems (_2023 - 2024_)**
