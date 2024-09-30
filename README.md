@@ -5,7 +5,7 @@
 ## Web Presence
 
 ## Education
-- Systems Analyst. | Sheridan College (_2018-2021_)
+- CST. Information Systems Engineering | Sheridan College (_2018-2021_)
 - Bachelor of Applied Information Sciences | Sheridan College (_2022-2024_)
 
 ## Work Experience
