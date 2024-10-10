@@ -1,4 +1,4 @@
-# Cybersecurity Enthusiast, Information Technology Specialist, Animal Lover
+## Information Technology Specialist, Cybersecurity Enthusiast, Animal Lover
 
 ## Web Presence
 -	[TryHackMe](https://tryhackme.com/p/vahaes)
