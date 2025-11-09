@@ -7,11 +7,12 @@
 - [MonkeyType](https://monkeytype.com/profile/vahaes)
 
 ## Projects
-Filling this up, come back later!
+- [ML-model-api test 2](https://github.com/ramontheweb/flowerml-model-api)
+- [LeetCode solution write-ups](https://github.com/ramontheweb/LC-Solution-Writeups/tree/main)
+- [Older projects](https://github.com/ramontheweb/PreviousProjects)
+- [REST API Test (ignore)]
 
 ## Contact Me!
-Here's all the ways you can reach me, talk to you soon!
 
 ramkumar33.ra@gmail.com
-
-Filling this up, come back later!
+380-269-9929
