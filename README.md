@@ -9,11 +9,8 @@
 ## Projects
 - [ML-model-api test 2](https://github.com/ramontheweb/flowerml-model-api)
 - [LeetCode solution write-ups](https://github.com/ramontheweb/LC-Solution-Writeups/tree/main)
+- [FastAPI REST bookstore test](https://github.com/ramontheweb/rustys-bookstore-api)
 - [Older projects](https://github.com/ramontheweb/PreviousProjects)
-- [REST API Test (ignore)]
 
 ## Contact Me!
-
 ramkumar33.ra@gmail.com
-
-380-269-9929
